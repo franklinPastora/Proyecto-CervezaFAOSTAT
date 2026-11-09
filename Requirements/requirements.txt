@@ -1,0 +1,8 @@
+# Fijar versiones con "pip freeze" al terminar el proyecto
+pandas
+numpy
+requests
+matplotlib
+seaborn
+scikit-learn
+openpyxl
